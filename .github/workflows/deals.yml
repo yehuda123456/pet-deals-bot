@@ -1,8 +1,9 @@
 name: deals
 
 on:
-  schedule:
-    - cron: "0 * * * *"   # every hour
+  # schedule is off until the AliExpress keys are added; remove the leading # to enable
+  # schedule:
+  #   - cron: "0 * * * *"   # every hour
   workflow_dispatch:       # manual run button
 
 permissions:
