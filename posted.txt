@@ -1,0 +1,1 @@
+# Log of posted deals (written by the bot). Format: time | link | title

@@ -1,0 +1,11 @@
+# QUEUE OF DEALS. The bot posts the first deal in this file, then removes it.
+# Separate deals with an empty line. Lines that start with # are ignored.
+# Required: title, link (must be an AliExpress link). Optional: price, was, image, note.
+#
+# Example (remove the # signs to use it):
+# title: Reflective dog harness, no-pull
+# price: $4.99
+# was: $12.99
+# link: https://s.click.aliexpress.com/e/_xxxxxx
+# image: https://ae01.alicdn.com/kf/xxxxxx.jpg
+# note: Free shipping, 4.8 stars, 5,000+ sold
