@@ -1,0 +1,32 @@
+{
+  "language": "EN",
+  "currency": "ILS",
+  "ship_to_country": "IL",
+  "interval_minutes": 60,
+  "max_posts_per_run": 3,
+  "repost_after_days": 14,
+  "filters": {
+    "min_price": 5,
+    "max_price": 600,
+    "min_rating_percent": 90,
+    "min_orders": 100,
+    "min_discount_percent": 40,
+    "min_price_drop_percent": 10,
+    "min_below_market_percent": 25,
+    "history_days": 30
+  },
+  "searches": [
+    {"keywords": "dog harness"},
+    {"keywords": "dog leash"},
+    {"keywords": "dog toys"},
+    {"keywords": "cat toys"},
+    {"keywords": "cat litter box"},
+    {"keywords": "pet water fountain"},
+    {"keywords": "automatic pet feeder"},
+    {"keywords": "pet grooming brush"},
+    {"keywords": "pet bed"},
+    {"keywords": "cat scratching post"},
+    {"keywords": "dog car seat cover"},
+    {"keywords": "pet carrier bag"}
+  ]
+}
